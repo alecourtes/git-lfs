@@ -1,0 +1,2 @@
+excel/*.xlsx filter=lfs diff=lfs merge=lfs -text
+jpg/*.jpg filter=lfs diff=lfs merge=lfs -text
